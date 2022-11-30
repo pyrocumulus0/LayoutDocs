@@ -35,3 +35,4 @@
 | RdtBtnSet.bflyt                                 | ResidentMenuButtonSettings      | Settings applet button                                                         |
 | RdtBtnShop.bflyt                                | ResidentMenuButtonShop          | eShop applet button                                                            |
 | RdtIconPromotion.bflyt                          | ResidentMenuIconPromotion       |                                                                                |
+| RdtBtnLR.bflyt                                  | ResidentMenuButtonLR            | NSO applet button                                                              |
